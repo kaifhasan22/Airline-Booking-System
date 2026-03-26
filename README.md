@@ -6,8 +6,8 @@ A fully functional web-based airline booking system built with PHP, HTML, CSS, a
 
 ## 👥 Team Members
 
-| Name | Role |
-|------|------|
+| Name |
+|------|
 |Kaif Hasan Farooqui |
 |Ayan Khokar |
 |Deshna Jain |
