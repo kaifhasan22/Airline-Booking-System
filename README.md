@@ -130,7 +130,7 @@ Contains **10 MySQL tables:**
 
 ## 📌 Notes
 
-- This is an **academic project** developed for educational purposes (2025).
+- This is an **academic project** developed for educational purposes (2026).
 - The system runs on a **local XAMPP server** and is not deployed to production.
 - Admin credentials are set within `admin.php` using PHP sessions.
 
