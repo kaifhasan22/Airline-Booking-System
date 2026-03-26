@@ -138,4 +138,4 @@ Contains **10 MySQL tables:**
 
 ## 📄 License
 
-This project is for academic use only. All rights reserved © 2025 SkyNest Airlines Team.
+This project is for academic use only. All rights reserved © 2026 SkyNest Airlines Team.
