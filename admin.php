@@ -1,9 +1,8 @@
 <?php
-session_start(); // MUST be first line before anything else
+session_start(); 
 include 'db.php';
 
-// Simple admin password protection
-$admin_password = 'admin123'; // Change this to your own password
+$admin_password = 'admin123'; 
 $logged_in = isset($_SESSION['admin']) && $_SESSION['admin'] === true;
 
 if (isset($_POST['admin_login'])) {
