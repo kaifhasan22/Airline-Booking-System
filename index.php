@@ -92,6 +92,7 @@ if ($fr) {
                         <i class="fas fa-plane-departure field-icon"></i>
                         <select name="from" required>
                             <option value="">Select Departure City</option>
+                            <option value="">Any City</option>
                             <?php foreach ($airports as $ap): ?>
                                 <option value="<?= $ap['airport_id'] ?>">
                                     <?= htmlspecialchars($ap['city']) ?> – <?= htmlspecialchars($ap['airport_name']) ?>
@@ -105,6 +106,7 @@ if ($fr) {
                         <i class="fas fa-plane-arrival field-icon"></i>
                         <select name="to" required>
                             <option value="">Select Arrival City</option>
+                            <option value="">Any City</option>
                             <?php foreach ($airports as $ap): ?>
                                 <option value="<?= $ap['airport_id'] ?>">
                                     <?= htmlspecialchars($ap['city']) ?> – <?= htmlspecialchars($ap['airport_name']) ?>
